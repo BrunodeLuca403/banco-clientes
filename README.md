@@ -1,4 +1,4 @@
-# Paraná Banco — Cadastro de Clientes
+# Banco — Cadastro de Clientes
 
 Microsserviço responsável por registrar clientes via API REST e publicar o evento
 `ClienteCadastrado` no hub de mensageria (RabbitMQ). É o ponto de entrada do fluxo
